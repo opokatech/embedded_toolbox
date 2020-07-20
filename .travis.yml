@@ -1,0 +1,9 @@
+language: cpp
+dist: bionic
+addons:
+  apt:
+    packages:
+      cmake
+
+script: make run_tests
+

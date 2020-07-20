@@ -1,5 +1,7 @@
 # INTRO
 
+[![Build Status](https://travis-ci.com/opokatech/embedded_toolbox.svg?branch=master)](https://travis-ci.com/opokatech/embedded_toolbox)
+
 This repository contains a bunch of c++ classes which might be useful for embedded system.
 
 It was created to demonstrate TDD in action and just published afterwards.
