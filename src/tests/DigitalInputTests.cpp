@@ -1,6 +1,6 @@
-#include "catch.hpp"
+#include "catch2/catch_test_macros.hpp"
 
-#include "DigitalInput.hpp"
+#include "et/DigitalInput.hpp"
 
 TEST_CASE("DigitalInput")
 {

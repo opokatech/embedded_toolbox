@@ -1,6 +1,6 @@
-#include "catch.hpp"
+#include "catch2/catch_test_macros.hpp"
 
-#include "MovingAverage.hpp"
+#include "et/MovingAverage.hpp"
 
 TEST_CASE("MovingAverage")
 {
